@@ -1,0 +1,8 @@
+interactions:
+
+    - pattern:
+        regex: >-
+          (bye|ciao)(!|,)? ##heartbot##!?
+      event: tell
+      message: Bye $user!
+      probability: 1

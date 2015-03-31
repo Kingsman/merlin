@@ -1,0 +1,7 @@
+---
+probability: 1
+patterns:
+  - patterns/test1.yml
+  - patterns/test2.yml
+events:
+  - events/tell.coffee
